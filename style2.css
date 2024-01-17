@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+#yourName2{
+    margin-bottom: 5px;
+}
